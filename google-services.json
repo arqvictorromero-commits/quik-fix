@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "641565503978",
+    "firebase_url": "https://quik-fix-efe15-default-rtdb.firebaseio.com",
+    "project_id": "quik-fix-efe15",
+    "storage_bucket": "quik-fix-efe15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641565503978:android:d62332ec7a7d1bc675c293",
+        "android_client_info": {
+          "package_name": "com.arqvrom.quikfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641565503978-f4mrjahtidp5c6rtq06sv4c2n66nqsvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arqvrom.quikfix",
+            "certificate_hash": "05a1f00e859956772046a0cfd4903384063970e0"
+          }
+        },
+        {
+          "client_id": "641565503978-08vqegnbte37irr4jqo97amqm0q7k20u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6kGJ572l26ddahnyKkpD9BW3T1P0ANY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641565503978-08vqegnbte37irr4jqo97amqm0q7k20u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
